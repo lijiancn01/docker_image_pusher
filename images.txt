@@ -1,4 +1,7 @@
-eclipse-temurin:8-jre
+node:16-alpine
+nginx:alpine
+
+#eclipse-temurin:8-jre
 #openjdk:11-jdk-slim
 #mysql:8
 #redis:6-alpine
