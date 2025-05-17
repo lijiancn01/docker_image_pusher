@@ -1,1 +1,3 @@
 openjdk:11-jdk-slim
+mysql:8
+redis:6-alpine
