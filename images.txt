@@ -1,6 +1,7 @@
-node:16-alpine
-nginx:alpine
+openjdk:8u342-jdk
 
+#node:16-alpine
+#nginx:alpine
 #eclipse-temurin:8-jre
 #openjdk:11-jdk-slim
 #mysql:8
