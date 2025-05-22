@@ -1,5 +1,7 @@
-openjdk:8u342-jdk
+centos:7
+centos:7-slim
 
+#openjdk:8u342-jdk
 #node:16-alpine
 #nginx:alpine
 #eclipse-temurin:8-jre
