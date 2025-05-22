@@ -1,5 +1,4 @@
 centos:7
-centos:7-slim
 
 #openjdk:8u342-jdk
 #node:16-alpine
